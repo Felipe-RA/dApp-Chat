@@ -17,9 +17,10 @@ A test to create and deploy a dApp chat using solidity
 
 ## Contract Deployment Info
 
-DEPLOYED ON goerli TEST NETWORK!
+* This contract is [**verified**](https://goerli.etherscan.io/address/0xdc8e1fd81014d4bc77aba73d1df6cdd95e8fa17f#code)
+* **Deployed on** goerli test network!
 
-Original. Etherscan link https://goerli.etherscan.io/tx/0x586358d77c9e137598e3ee014677d5caa7227aae4c87101fcb0da1d31f1714f3
+OG Contract Etherscan link https://goerli.etherscan.io/tx/0x586358d77c9e137598e3ee014677d5caa7227aae4c87101fcb0da1d31f1714f3
 
 >
 <pre>status:  	        true      Transaction mined and execution succeed
