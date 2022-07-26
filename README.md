@@ -48,6 +48,6 @@ val	0 wei
 
 ## Cost of transactions
 
-Calling the function `sendMessage()` costs around 140584 gas with the current setup.
+Calling the function `sendMessage()` costs around 140584 gas with the current setup. 
 
 
