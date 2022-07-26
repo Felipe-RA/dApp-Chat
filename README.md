@@ -1,7 +1,10 @@
 # dApp-Chat
 A test to create and deploy a dApp chat using solidity
 
-##Instructions
+
+
+## Instructions
+
 1. Open your MetaMask
 2. Load  the contract to https://remix.ethereum.org to test it. The contract address is 0xdC8e1Fd81014D4bc77Aba73d1df6cdd95E8fa17f
 3. Connect to Goerli test network
@@ -36,9 +39,15 @@ decoded input	{}
 decoded output	 - 
 logs	[]
 
+##
+
 val	0 wei
 
 </pre>
 
+
+## Cost of transactions
+
+Calling the function `sendMessage()` costs around 140584 gas with the current setup.
 
 
